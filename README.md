@@ -1,4 +1,6 @@
 # wc_boho_discount
+This is a WOOCOMMERCE EXTENSION tested for versions 8 & 9 though will work with most versions past and future.
+
 Buy One Item in a Category (or Collection of Categories), Receive Subsequent Items in Category (or Collection of Categories) for 50% off!
 
 Implements a discount scheme where buying 1 item in a category (or collection of categories) allows all subsequent items in that category (or collection of categories) to be half off.  This will allow up to 99 category collections to receive this discount scheme.  For each category group with 2 or more items, the cheaper items get discounted first while the most expensive item retains its full price.  Please note that discounts will not stack.
