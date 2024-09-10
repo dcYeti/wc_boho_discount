@@ -220,7 +220,7 @@ function apply_custom_category_discount() {
             $product = $cart_item['data'];
             $quantity = $cart_item['quantity'];
             $price = $product->get_price();
-            error_log('here is price' . $price);
+            //error_log('here is price' . $price);
             $cat_match = false; //Flags true if cat match found (prevents discount stacking) 
             $matching_idx = -1; //  
             
